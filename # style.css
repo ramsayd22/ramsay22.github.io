@@ -1,0 +1,19 @@
+body{
+  background-color: #F6EEE0;
+}
+
+h1{
+    color:black;
+    font-family: 'Abril Fatface';font-size: 1em;
+}
+
+p{
+    color:black;
+    font-family: 'Aguafina Script';font-size: 2em;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+  }
